@@ -1,0 +1,5 @@
+name = Sum
+description = Displays the sum of two numbers when user inputs them into a form.
+package = Epicodus Examples
+core = 7.x
+files[] = sum.module
